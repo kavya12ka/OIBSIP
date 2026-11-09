@@ -1,4 +1,3 @@
-# OIBSIP
 # OIBSIP: Oasis Infobyte Student Internship Program
 
 **Track:** Data Analytics
