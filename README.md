@@ -3,7 +3,7 @@
 **Track:** Data Analytics
 **Intern:** [Kavya K Vinay]
 **Batch:** [5th November 2026]
-**Connect:** [LinkedIn](www.linkedin.com/in/kavya-k-v) | [GitHub]((https://github.com/kavya12ka))
+**Connect:** [LinkedIn](www.linkedin.com/in/kavya-k-v) | [GitHub](https://github.com/kavya12ka)
 
 This repository holds all my task submissions for the **Oasis Infobyte** internship in the **Data Analytics** domain. Each project lives in its own folder and includes a Jupyter Notebook, a project README, and supporting outputs.
 
@@ -152,6 +152,6 @@ jupyter
 ## Contact
 
 📧 [kavya12ka@gmail.com]
-💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
+💼 [LinkedIn](www.linkedin.com/in/kavya-k-v)
 
 `#oasisinfobyte` `#dataanalytics` `#python` `#internship`
